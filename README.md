@@ -12,8 +12,8 @@ docker-compose up -d
 Versions 
 ========
 
-1. Jaeger: 1.11
-2. scylladb: 3.0.4
+1. Jaeger: 1.13.1
+2. scylladb: 3.0.8
 
 [Jaeger]: https://www.jaegertracing.io/
 [scylladb]: https://www.scylladb.com/
